@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import React from "react";
-import ShopItemFunc from './ShopItemFunc';
+import ShopItemFunc from './components/ShopItemFunc';
 
 function App() {
   const item = {
